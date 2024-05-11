@@ -1,7 +1,11 @@
-- [数据结构与算法](/general/algorithm/README.md)
-  - 数据结构
-    - [stack](/general/algorithm/data-structures/stack/README.zh-CN.md)
-    - [queue](/general/algorithm/data-structures/queue/README.zh-CN.md)
+- [java](/doc/java/java.md)
+  - JVM调优
+    - [1.类加载机制](/doc/java/jvm/jvm1.md)
+    - [2.Java内存模型深度剖析](/doc/java/jvm/jvm2.md)
+    - [3.jvm垃圾回收算法](/doc/java/jvm/jvm3.md)
+    - [4.G1垃圾回收器](/doc/java/jvm/jvm4.md)
+    - [5.JVM调优工具详解](/doc/java/jvm/jvm5.md)
+    - [6.JVm调优实战及常量池详解](/doc/java/jvm/jvm6.md)
     - list
       - [linked-list](/general/algorithm/data-structures/linked-list/README.zh-CN.md)
       - [doubly-linked-list](/general/algorithm/data-structures/doubly-linked-list/README.zh-CN.md)
